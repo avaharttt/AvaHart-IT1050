@@ -1,0 +1,13 @@
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\obj\Debug\netcoreapp3.1\Lab3Code.csprojAssemblyReference.cache
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\obj\Debug\netcoreapp3.1\Lab3Code.AssemblyInfoInputs.cache
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\obj\Debug\netcoreapp3.1\Lab3Code.AssemblyInfo.cs
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\obj\Debug\netcoreapp3.1\Lab3Code.csproj.CoreCompileInputs.cache
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\bin\Debug\netcoreapp3.1\Lab3Code.exe
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\bin\Debug\netcoreapp3.1\Lab3Code.deps.json
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\bin\Debug\netcoreapp3.1\Lab3Code.runtimeconfig.json
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\bin\Debug\netcoreapp3.1\Lab3Code.runtimeconfig.dev.json
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\bin\Debug\netcoreapp3.1\Lab3Code.dll
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\bin\Debug\netcoreapp3.1\Lab3Code.pdb
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\obj\Debug\netcoreapp3.1\Lab3Code.dll
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\obj\Debug\netcoreapp3.1\Lab3Code.pdb
+C:\Users\pinkc\Documents\Fall 2020 School\IT1050\Lab3Code\Lab3Code\obj\Debug\netcoreapp3.1\Lab3Code.genruntimeconfig.cache
